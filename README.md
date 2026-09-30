@@ -3,4 +3,4 @@ Assignment 1 - BUSADMIN O712
 
 This is a Streamlit app to help Rosa decide the best promised delivery time, with the assistance of GitHub CoPilot.
 
-Link to Streamlit Cloud: 
+Link to Streamlit Cloud: https://assignment-1-o712-7rshw9bcdfxcymuyd5f9bi.streamlit.app/
