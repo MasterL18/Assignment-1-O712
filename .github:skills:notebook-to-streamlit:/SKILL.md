@@ -5,5 +5,5 @@ When writing the Streamlit app:
 2. Include the calculation functions provided by the user (calculate_late_cost and get_best_promise).
 3. Use st.selectbox() for dropdown menus.
 4. Use st.number_input() or st.slider() for adjustable numerical values.
-5. Wrap the main execution logic in an `if st.button():` block so the calculation only runs when requested.
+5. Wrap the main execution logic in an 'if st.button():' block so the calculation only runs when requested.
 6. Display the final recommendation clearly using st.success() or st.metric().
