@@ -1,0 +1,2 @@
+streamlit
+git+https://github.com/zhouy185/rosa-starter.git
